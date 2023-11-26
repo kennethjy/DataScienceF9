@@ -37,3 +37,13 @@ A partitioning algorithm using eigenvalues of the similarity matrix to reveal th
 A partitioning algorithm that partitions data into K clusters by iteratively minimizing the within-cluster variance, producing spherical clusters based on feature similarity
 
 ![Screenshot 2023-11-25 235041](https://github.com/kennethjy/DataScienceF9/assets/114073455/fd63e974-b697-43dd-9156-ff7e6127ef46)
+
+## Best Algorithms:
+
+Rand Score - Kmeans
+
+Calinski & Harabasz Score - Kmeans
+
+Silhouette Score - Spectral Clustering
+
+Davies-Bouldin Index - Spectral Clustering
